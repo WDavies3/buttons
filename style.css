@@ -1,0 +1,41 @@
+.search {
+    color: rgb(0, 153, 204);
+    border-color: rgb(0, 153, 204);
+    border-radius: 15%;
+    padding: 5px, 20px;
+    font-size: 1 em;
+    font-weight: bold;
+
+    width: 135px;
+    height: 30px;
+
+}
+
+.plus {
+    border: none;
+    border-radius: 50%;
+    color: white;
+    background-color: aquamarine;
+    /* font-weight: bold; */
+    font-size: 1.25em;
+    height: 35px;
+    width: 35px;
+}
+
+.create {
+    color: white;
+    background-color: royalblue;
+    box-shadow: 5px 5px black;
+    width: 175px;
+    height: 35px;
+    font-size: 0.95em;
+}
+
+#div1 {
+    margin-top: 50px;
+}
+
+#div2,
+#div3 {
+    margin-top: 10px;
+}
